@@ -128,3 +128,10 @@ footer {
 }
 
 }
+
+/************************
+* Zikula-specific styles
+************************/
+a.navbar-brand img {
+    margin: -9px 0;
+}
