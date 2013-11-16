@@ -7,4 +7,4 @@ based on 'Modern Business' by Iron Summit Media Strategies (http://startbootstra
 
 ***under development***
 
-clone as `ModernBusinessTheme` (not as ntq)
+clone as `ModernBusinessTheme` (not as ntq) into `themes/Zikula/Theme/ModernBusinessTheme`
