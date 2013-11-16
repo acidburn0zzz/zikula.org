@@ -135,3 +135,7 @@ footer {
 a.navbar-brand img {
     margin: -9px 0;
 }
+
+#theme_maincontent {
+    margin-top: 40px;
+}
