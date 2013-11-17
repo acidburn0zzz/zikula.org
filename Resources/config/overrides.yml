@@ -4,3 +4,4 @@
 system/Zikula/Module/SearchModule/Resources/views/Block/search.tpl: themes/Zikula/Theme/ModernBusinessTheme/Resources/views/modules/ZikulaSearchModule/Block/search.tpl
 system/Zikula/Module/BlocksModule/Resources/views/blocks_block_extmenu_topnav.tpl: themes/Zikula/Theme/ModernBusinessTheme/Resources/views/modules/ZikulaBlocksModule/blocks_block_extmenu_topnav.tpl
 system/Zikula/Module/BlocksModule/Resources/views/blocks_block_extmenu.tpl: themes/Zikula/Theme/ModernBusinessTheme/Resources/views/modules/ZikulaBlocksModule/blocks_block_extmenu.tpl
+system/Zikula/Module/BlocksModule/Resources/views/menutree/blocks_block_menutree_horizontal.tpl: themes/Zikula/Theme/ModernBusinessTheme/Resources/views/modules/ZikulaBlocksModule/menutree/blocks_block_menutree_horizontal.tpl
