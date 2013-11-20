@@ -3,13 +3,11 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
     <meta name="author" content="">
-
-    <title>Sidebar Page - Modern Business - Start Bootstrap Template</title>
-
-
-    <!-- Add custom CSS here -->
+    <meta http-equiv="Content-Type" content="text/html; charset={charset}" />
+    <title>{pagegetvar name='title'}</title>
+    <meta name="description" content="{$metatags.description}" />
+    <meta name="keywords" content="{$metatags.keywords}" />
     {pageaddvar name="stylesheet" value="$stylepath/style.css"}
 </head>
 
