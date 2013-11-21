@@ -14,7 +14,3 @@
 <body>
 
 {blockposition name="topnav"}
-
-<!-- Page Content -->
-
-<div class="container">
