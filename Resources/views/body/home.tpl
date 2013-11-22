@@ -11,19 +11,19 @@
         <div class="item active">
             <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide One');"></div>
             <div class="carousel-caption">
-                <h1>Modern Business - A Bootstrap 3 Template</h1>
+                <h1>Zikula Open Source<br />PHP Application Framework</h1>
             </div>
         </div>
         <div class="item">
             <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Two');"></div>
             <div class="carousel-caption">
-                <h1>Ready to Style &amp; Add Content</h1>
+                <h1>Zikula Open Source<br />PHP Application Framework</h1>
             </div>
         </div>
         <div class="item">
             <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Three');"></div>
             <div class="carousel-caption">
-                <h1>Additional Layout Options at <a href="http://startbootstrap.com">http://startbootstrap.com</a></h1>
+                <h1>Zikula Open Source<br />PHP Application Framework</a></h1>
             </div>
         </div>
     </div>
