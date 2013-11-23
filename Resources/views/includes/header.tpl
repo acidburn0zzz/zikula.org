@@ -9,6 +9,7 @@
     <meta name="description" content="{$metatags.description}" />
     <meta name="keywords" content="{$metatags.keywords}" />
     {pageaddvar name="stylesheet" value="$stylepath/style.css"}
+    {pageaddvar name="stylesheet" value="$stylepath/spacelab.min.css"}
 </head>
 
 <body>
