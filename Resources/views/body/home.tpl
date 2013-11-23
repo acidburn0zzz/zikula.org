@@ -42,7 +42,10 @@
     <div class="container">
 
         <div class="row">
-            {blockposition name='homeblock'}
+            {blockposition name='homeblock-row1'}
+        </div><!-- /.row -->
+        <div class="row">
+            {blockposition name='homeblock-row2'}
         </div><!-- /.row -->
 
     </div><!-- /.container -->
