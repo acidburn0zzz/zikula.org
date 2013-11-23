@@ -8,7 +8,7 @@
                 <span class="icon-bar"></span>
             </button>
             <!-- You'll want to use a responsive image option so this logo looks good on devices - I recommend using something like retina.js (do a quick Google search for it and you'll find it) -->
-            <a class="navbar-brand" href="{homepage}"><img src="themes/Zikula/Theme/ModernBusinessTheme/Resources/public/images/logo32.gif" /> {$modvars.ZConfig.sitename}</a>
+            <a class="navbar-brand" href="{homepage}"><img src="themes/Zikula/Theme/ModernBusinessTheme/Resources/public/images/logo32.png" /> {$modvars.ZConfig.sitename}</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
