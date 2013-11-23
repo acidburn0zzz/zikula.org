@@ -1,7 +1,7 @@
 ModernBusinessTheme
 ===================
 
-need to add two blockpositions: "homeblock-row1", "homeblock-row2"
+need to add two blockpositions: "homeblock-row1", "homeblock-row2", "jumbotron"
 
 Credits
 =======

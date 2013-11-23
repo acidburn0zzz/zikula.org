@@ -39,10 +39,7 @@
 
 <div class="jumbotron">
     <div class="container">
-        <h1>Welcome to Zikula</h1>
-        <p>Zikula is an OpenSource PHP Application Framework, for your small to enterprise business or personal site.</p>
-        <p>No matter what your needs, Zikula can provide the solution. Whether it is a corporate presence with ecommerce, a simple blog or a community portal, Zikula can do it all.</p>
-        <p><a class="btn btn-success btn-lg" role="button" href="http://go.zikula.org/download_latest"><i class="fa fa-cloud-download fa-3x pull-left"></i> Download Zikula<br />1.3.6</a></p>
+        {blockposition name='jumbotron'}
     </div>
 </div>
 
