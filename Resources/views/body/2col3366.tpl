@@ -10,7 +10,7 @@
             {*<li><a href="index.html">Home</a></li>*}
             {*<li class="active">Full Width Page</li>*}
           {*</ol>*}
-          {blockposition name=center}
+          {*blockposition name=center*}
           {$maincontent}
         </div>
 
