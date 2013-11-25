@@ -40,6 +40,7 @@
 <div class="jumbotron">
     <div class="container">
         {blockposition name='jumbotron'}
+        {include file='includes/social.tpl'}
     </div>
 </div>
 
