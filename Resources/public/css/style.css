@@ -139,3 +139,12 @@ a.navbar-brand img {
 #theme_maincontent {
     margin-top: 40px;
 }
+
+li#github-iframes {
+    font-size:9px;
+    line-height: 9px;
+    vertical-align: -5px;
+}
+a#github-icon .fa-github-square:hover {
+    color: #4183c4;
+}
