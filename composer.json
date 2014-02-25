@@ -10,7 +10,7 @@
         }
     ],
     "autoload": {
-        "psr-0": { "Zikula\\Theme\\ModernBusinessTheme\\": "" }
+        "psr-4": { "Zikula\\Theme\\ModernBusinessTheme\\": "" }
     },
     "require": {
         "php": ">5.3.3"
