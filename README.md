@@ -1,5 +1,5 @@
-ntq
-===
+Theme
+=====
 
 ModernBusinessTheme for Zikula
 
