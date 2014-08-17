@@ -5,7 +5,7 @@ Pull requests are welcome, please see https://github.com/zikula/core/wiki/Contri
 
 **Any pull request changing the appearance of the theme must be accompanied by a screenshot showing before and after.**
 
-The following temmplate MUST be used in the PR body. Do not abbreviate.
+The following template MUST be used in the PR body. Do not abbreviate.
 
 
 ```
