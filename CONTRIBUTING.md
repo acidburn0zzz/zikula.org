@@ -13,13 +13,9 @@ The following temmplate MUST be used in the PR body. Do not abbreviate.
 | ------------- | ---
 | Bug fix?      | no
 | New feature?  | no
-| BC breaks?    | no
-| Deprecations? | no
-| Tests pass?   | yes
 | Fixed tickets | -
 | Refs tickets  | -
 | License       | MIT
-| Doc PR        | -
 ```
 
 For example:
@@ -29,13 +25,9 @@ For example:
 | ------------- | ---
 | Bug fix?      | no
 | New feature?  | no
-| BC breaks?    | no
-| Deprecations? | no
-| Tests pass?   | yes
 | Fixed tickets | #121, #437
 | Refs tickets  | #999
 | License       | MIT
-| Doc PR        | zikula/zikula-docs#123
 ```
 
 If there are any todos, please add this template:
