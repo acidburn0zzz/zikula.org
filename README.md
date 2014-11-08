@@ -11,6 +11,6 @@ see [contributing guidelines](https://github.com/zikula/zikula.org/blob/master/C
 
 ModernBusinessTheme for Zikula
 
-based on 'Modern Business' by Iron Summit Media Strategies (http://startbootstrap.com/modern-business)
+based on [Modern Business](http://startbootstrap.com/modern-business) by Iron Summit Media Strategies.
 
 clone as `ModernBusinessTheme` (not as zikula.org) into `themes/Zikula/Theme/ModernBusinessTheme`
