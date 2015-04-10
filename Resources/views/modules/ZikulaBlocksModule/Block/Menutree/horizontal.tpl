@@ -7,6 +7,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
+            <span class='navbar-brand'>{adminpanelmenu}</span>
             <a class="navbar-brand" href="{homepage}"><img style="display: inline;" src="themes/Zikula/Theme/ModernBusinessTheme/Resources/public/images/logo32.png" /> {$modvars.ZConfig.sitename}</a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
