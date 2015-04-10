@@ -134,6 +134,7 @@ footer {
 ************************/
 a.navbar-brand img {
     margin: -9px 0;
+    display: inline;
 }
 
 #theme_maincontent {
